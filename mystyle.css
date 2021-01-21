@@ -2,11 +2,30 @@ html body{
     background-image: linear-gradient(90deg, #423385, #59358f, #423385);
     color: white;
     font-family: Arial, SansSerif;
-
+}
+a:link{
+    color: white;
+}
+a:visited {
+    color: white;
+}
+a:hover{
+    color: #f78f46 !important;
+}
+a:active{
+    color: white;
 }
 .navbar-custom{
     background: #6a63a3;
     color: white;
+}
+.topnav-right {
+    float: right;
+    color: white;
+}
+.topnav-right a{
+    margin-left:1em;
+    margin-right:0.5em;
 }
 .btn-primary,
 .btn-primary:hover,
