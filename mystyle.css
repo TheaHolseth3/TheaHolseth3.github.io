@@ -1,1 +1,12 @@
-
+body{
+    background-color: #423385;
+    color: white;
+    font-family: Arial, SansSerif;
+}
+.navbar-custom{
+    background-color: #6a63a3;
+    color: white;
+}
+#test{
+    background-color: black;
+}
