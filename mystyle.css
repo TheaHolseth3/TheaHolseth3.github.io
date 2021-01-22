@@ -1,7 +1,10 @@
 html body{
     background-image: linear-gradient(90deg, #423385, #59358f, #423385);
     color: white;
-    font-family: 'Playfair Display', serif;;
+    font-family: 'Public Sans', sans-serif !important;
+}
+.overskrift{
+    font-family: 'Public Sans', sans-serif !important;
 }
 
 a:link{
